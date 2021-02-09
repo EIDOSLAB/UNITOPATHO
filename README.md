@@ -16,3 +16,19 @@
 ## Downloading the dataset
 
 You can download UniToPatho from [IEEE-DataPort](https://ieee-dataport.org/open-access/unitopatho)
+
+## Example usage
+
+
+## Citation
+
+If you use this dataset, please make sure to cite the related work:
+
+```
+@article{barbano2021unitopatho,
+  title={UniToPatho, a labeled histopathological dataset for colorectal polyps classification and adenoma dysplasia grading},
+  author={Barbano, Carlo Alberto and Perlo, Daniele and Tartaglione, Enzo and Fiandrotti, Attilio and Bertero, Luca and Cassoni, Paola and Grangetto, Marco},
+  journal={arXiv preprint arXiv:2101.09991},
+  year={2021}
+}
+```
