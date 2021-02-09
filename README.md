@@ -7,7 +7,7 @@
 
 - **NORM** - Normal tissue;
 - **HP** - Hyperplastic Polyp;
-- **TA.HG**- Tubular Adenoma, High-Grade dysplasia;
+- **TA.HG** - Tubular Adenoma, High-Grade dysplasia;
 - **TA.LG** - Tubular Adenoma, Low-Grade dysplasia;
 - **TVA.HG** - Tubulo-Villous Adenoma, High-Grade dysplasia;
 - **TVA.LG** - Tubulo-Villous Adenoma, Low-Grade dysplasia.
