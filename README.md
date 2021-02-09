@@ -24,7 +24,7 @@ For example usage see [Example.ipynb](/Example.ipynb)
 
 ## Citation
 
-If you use this dataset, please make sure to cite the related work:
+If you use this dataset, please make sure to cite the [related work](https://arxiv.org/abs/2101.09991):
 
 ```
 @article{barbano2021unitopatho,
