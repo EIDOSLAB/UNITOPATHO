@@ -17,8 +17,10 @@
 
 You can download UniToPatho from [IEEE-DataPort](https://ieee-dataport.org/open-access/unitopatho)
 
-## Example usage
+## Dataloader and example usage
 
+We provide a [PyTorch compatible dataset class](/unitopatho.py).
+For example usage see [Example.ipynb](/Example.ipynb)
 
 ## Citation
 
