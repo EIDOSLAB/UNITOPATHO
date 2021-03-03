@@ -19,7 +19,7 @@ You can download UniToPatho from [IEEE-DataPort](https://ieee-dataport.org/open-
 
 ## Dataloader and example usage
 
-We provide a [PyTorch compatible dataset class](/unitopatho.py).
+We provide a [PyTorch compatible dataset class](/unitopatho.py) and [ECVL compatible dataloader](/unitopatho_ECVL.py).
 For example usage see [Example.ipynb](/Example.ipynb)
 
 ## Citation
