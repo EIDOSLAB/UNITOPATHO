@@ -26,7 +26,7 @@ For example usage see [Example.ipynb](/Example.ipynb)
 
 If you use this dataset, please make sure to cite the [related work](https://arxiv.org/abs/2101.09991):
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unitopatho-a-labeled-histopathological/on-unitopatho)](https://paperswithcode.com/sota/on-unitopatho?p=unitopatho-a-labeled-histopathological)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unitopatho-a-labeled-histopathological/colorectal-polyps-characterization-on)](https://paperswithcode.com/sota/colorectal-polyps-characterization-on?p=unitopatho-a-labeled-histopathological)
 
 ```
 @article{barbano2021unitopatho,
