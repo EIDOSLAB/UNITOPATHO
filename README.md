@@ -29,11 +29,15 @@ If you use this dataset, please make sure to cite the [related work](https://arx
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/unitopatho-a-labeled-histopathological/colorectal-polyps-characterization-on)](https://paperswithcode.com/sota/colorectal-polyps-characterization-on?p=unitopatho-a-labeled-histopathological)
 
 ```
-@article{barbano2021unitopatho,
-  title={UniToPatho, a labeled histopathological dataset for colorectal polyps classification and adenoma dysplasia grading},
+@INPROCEEDINGS{9506198,
   author={Barbano, Carlo Alberto and Perlo, Daniele and Tartaglione, Enzo and Fiandrotti, Attilio and Bertero, Luca and Cassoni, Paola and Grangetto, Marco},
-  journal={arXiv preprint arXiv:2101.09991},
-  year={2021}
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Unitopatho, A Labeled Histopathological Dataset for Colorectal Polyps Classification and Adenoma Dysplasia Grading}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={76-80},
+  doi={10.1109/ICIP42928.2021.9506198}
 }
 ```
 
