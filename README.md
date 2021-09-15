@@ -1,4 +1,13 @@
-# UNITOPATHO
+# UNITOPATHO, 
+## A Labeled Histopathological Dataset for Colorectal Polyps Classification and Adenoma Dysplasia Grading
+
+Carlo Alberto Barbano<sup>1</sup>, Daniele Perlo<sup>1</sup>, Enzo Tartaglione<sup>1</sup>, Attilio Fiandrotti<sup>1</sup>, Luca Bertero<sup>2</sup>, Paola Cassoni<sup>2</sup>, Marco Grangetto<sup>1</sup> 
+| [[pdf](https://ieeexplore.ieee.org/document/9506198)]
+
+
+1<sub>University of Turin, Computer Science dept.</sub><br>
+2<sub>University of Turin, Medical Sciences dept.</sub>
+<br/>
 
 ![UniToPatho](assets/unitopatho.png)
 
