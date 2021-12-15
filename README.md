@@ -49,16 +49,3 @@ If you use this dataset, please make sure to cite the [related work](https://arx
   doi={10.1109/ICIP42928.2021.9506198}
 }
 ```
-
-and the dataset entry
-
-```
-@data{9fsv-tm25-21,
-  doi = {10.21227/9fsv-tm25},
-  url = {https://dx.doi.org/10.21227/9fsv-tm25},
-  author = {Luca Bertero; Carlo Alberto Barbano; Daniele Perlo; Enzo Tartaglione; Paola Cassoni; Marco Grangetto; Attilio Fiandrotti; Alessandro Gambella; Luca Cavallo },
-  publisher = {IEEE Dataport},
-  title = {UNITOPATHO},
-  year = {2021}
-}
-```
